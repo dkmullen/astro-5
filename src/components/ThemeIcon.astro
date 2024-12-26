@@ -14,11 +14,14 @@
     top: 5px;
     position: relative;
   }
-  .sun { fill: black; }
+  #themeToggle:hover {
+    cursor: pointer;
+  }
+  .sun { fill: var(--base-text-color); }
   .moon { fill: transparent; }
 
   :global(.dark) .sun { fill: transparent; }
-  :global(.dark) .moon { fill: white; }
+  :global(.dark) .moon { fill: var(--base-text-color-dark-theme); }
 </style>
 
 <script is:inline>
