@@ -1,12 +1,9 @@
 ---
 title: Becoming More Myself
-author: Dennis Mullen
 description: 'After 30 years of ministry, I found what I was looking for by leaving.'
-image:
-  url: 'https://docs.astro.build/assets/arc.webp'
-  alt: 'The Astro logo on a dark background with a purple gradient arc.'
+author: Dennis Mullen
 pubDate: 2022-01-14
-tags: ['astro', 'blogging', 'learning in public', 'successes']
+tags: ['skepticism', 'faith']
 ---
 
 _“It is difficult to get a man to understand something, when his salary depends on his not understanding it.”_ — Upton Sinclair

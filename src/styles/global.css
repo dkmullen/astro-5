@@ -22,9 +22,14 @@ html.dark {
   color: var(--base-text-color-dark-theme);
 }
 
+.dark a {
+  color: #8eb6e3;
+}
+
 .dark .nav-links a {
   color: #fff;
 }
+
 body {
   margin: 0 auto;
   width: 100%;
@@ -109,7 +114,7 @@ h1 {
 }
 
 a {
-  color: #00539f;
+  color: #3881d4;
 }
 
 .tags {
